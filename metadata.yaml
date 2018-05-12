@@ -1,0 +1,34 @@
+_repo: Popular-Books-on-Natural-ScienceFor-Practical-Use-in-Every-Household-for-Readers-of-All-Class__37224
+_version: 0.1.0
+alternative_title: Bernstein's Popular Treatise on Natural Science
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bernstein, Aaron David
+    aliases:
+    - Bernstein, Aron David
+    - Bernstein, A. (Aaron)
+    birthdate: 1812
+    deathdate: 1884
+    gutenberg_agent_id: '38713'
+    url: http://www.gutenberg.org/2009/agents/38713
+description: ''
+gutenberg_issued: '2011-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37224'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science -- Popular works'
+- !lcc 'Q'
+tableOfContents: The weight of the earth -- Velocity -- Nutrition -- Light and distance
+  -- The wonders of astronomy -- Meteorology -- The food proper for man.
+title: 'Popular Books on Natural Science
+
+  For Practical Use in Every Household, for Readers of All Classes'
+url: http://www.gutenberg.org/ebooks/37224
