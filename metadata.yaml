@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '38713'
     url: http://www.gutenberg.org/2009/agents/38713
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37224#Popular-Books-on-Natural-ScienceFor-Practical-Use-in-Every-Household-for-Readers-of-All-Class_
 gutenberg_issued: '2011-08-27'
 gutenberg_type: Text
 identifiers:
