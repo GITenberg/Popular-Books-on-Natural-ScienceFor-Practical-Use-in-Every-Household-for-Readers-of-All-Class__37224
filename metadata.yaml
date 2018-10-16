@@ -28,6 +28,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Science -- Popular works'
 - !lcc 'Q'
+- GITenberg
 tableOfContents: The weight of the earth -- Velocity -- Nutrition -- Light and distance
   -- The wonders of astronomy -- Meteorology -- The food proper for man.
 title: 'Popular Books on Natural Science
